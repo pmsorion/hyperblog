@@ -4,7 +4,7 @@ es ingeniero de sistemas
 
 pero por ahora esta como conductor uber
 
-Francisco tiene 52 y nacio en Bogota
+Francisco tiene 52 y nacio en Bogota y vive en santa isabel
 
 
 Metodologias agiles
